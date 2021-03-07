@@ -1,7 +1,6 @@
 .text-light {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-   padding: 50px 100%;
-	background-size: 400% 100%;
+        padding: 50px 100%;
 	animation: gradient 5s ease infinite;
 }
 
